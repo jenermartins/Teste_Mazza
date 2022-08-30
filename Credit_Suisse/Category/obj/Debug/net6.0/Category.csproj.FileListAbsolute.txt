@@ -1,0 +1,15 @@
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.csproj.AssemblyReference.cache
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.AssemblyInfoInputs.cache
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.AssemblyInfo.cs
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.csproj.CoreCompileInputs.cache
+/Users/jenermartins/Projects/Credit_Suisse/Category/bin/Debug/net6.0/Category
+/Users/jenermartins/Projects/Credit_Suisse/Category/bin/Debug/net6.0/Category.deps.json
+/Users/jenermartins/Projects/Credit_Suisse/Category/bin/Debug/net6.0/Category.runtimeconfig.json
+/Users/jenermartins/Projects/Credit_Suisse/Category/bin/Debug/net6.0/Category.dll
+/Users/jenermartins/Projects/Credit_Suisse/Category/bin/Debug/net6.0/Category.pdb
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.dll
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/refint/Category.dll
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.pdb
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/Category.genruntimeconfig.cache
+/Users/jenermartins/Projects/Credit_Suisse/Category/obj/Debug/net6.0/ref/Category.dll
